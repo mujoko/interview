@@ -1,0 +1,18 @@
+Development setting. 
+
+1. create database in mysql, name it mujoko and edit username and password in pom.xml with your own.
+			<jdbc.username>root</jdbc.username>
+			<jdbc.password>root</jdbc.password>
+
+2. execute mvn hibernate3:hbm2ddl
+3. execute mvn dbunit:operation
+5. execute mvn jetty:run
+
+
+Service Create User 
+http://localhost:9957/interview/api/v1/createUser2
+
+If deploy in tomcat change 
+
+BASE_URL = "http://localhost:9957/interview/api/";
+
