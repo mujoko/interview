@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+	
+	<table name="USERS">
+		<column>id</column>
+		<column>name</column>
+		<column>username</column>
+		<column>User_password</column>
+		<column>number_of_change</column>
+		<row>
+			<value>U1</value>
+			<value>Admin</value>
+			<value>admin</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U2</value>
+			<value>Ahmad</value>
+			<value>Syafei</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U3</value>
+			<value>Jaya Prasad Rao</value>
+			<value>rao</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U4</value>
+			<value>Manoj Goel</value>
+			<value>manoj</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U5</value>
+			<value>Azlinda Rohsly</value>
+			<value>alinda</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U6</value>
+			<value>Mariana Abu Bakar</value>
+			<value>mariana</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U7</value>
+			<value>Seshu Papabathini</value>
+			<value>seshu</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+		<row>
+			<value>U8</value>
+			<value>Ali bin Raja</value>
+			<value>ali</value>
+			<value>mypassword</value>
+			<value>0</value>
+		</row>
+
+	</table>
+	
+	
+</dataset>
